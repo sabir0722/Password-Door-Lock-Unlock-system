@@ -10,7 +10,7 @@ LiquidCrystal lcd(A0, A1, A2, A3, A4, A5);
 int pos = 0;
 
 char Data[Password_Length];
-char Master[Password_Length] = "7869";
+char Master[Password_Length] = "2525";
 byte data_count = 0, master_count = 0;
 
 bool Pass_is_good;
